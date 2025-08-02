@@ -1,1 +1,4 @@
-Placeholder for .gitignore
+__pycache__/
+downloads/
+*.pyc
+yotkdbot.zip

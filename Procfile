@@ -1,1 +1,1 @@
-Placeholder for Procfile
+worker: python bot.py
