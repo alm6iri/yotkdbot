@@ -1,8 +1,4 @@
 pyrogram
 tgcrypto
 yt-dlp
-<<<<<<< HEAD
 ffmpeg-python
-=======
-ffmpeg-python
->>>>>>> 5d2cd7cc1abec18f4b2fe97b3fb7b0c20b626930
