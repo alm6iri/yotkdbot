@@ -142,8 +142,5 @@ async def button_handler(client, cq: CallbackQuery):
         await msg.edit_text(MESSAGES["done"][lang])
     except Exception as e:
         await msg.edit_text(MESSAGES["error"][lang] + str(e))
-<<<<<<< HEAD
-=======
 
->>>>>>> 5d2cd7cc1abec18f4b2fe97b3fb7b0c20b626930
 app.run()
