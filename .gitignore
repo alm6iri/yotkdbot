@@ -1,3 +1,7 @@
 __pycache__/
 downloads/
+<<<<<<< HEAD
 *.pyc
+=======
+*.pyc
+>>>>>>> 5d2cd7cc1abec18f4b2fe97b3fb7b0c20b626930
